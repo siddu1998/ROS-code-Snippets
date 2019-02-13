@@ -1,5 +1,5 @@
 import rospy
-from str_msgs import String
+from std_msgs import String
 
 
 def callback(data):
